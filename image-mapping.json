@@ -1,0 +1,780 @@
+{
+  "book-of-the-dead-bestiary": {
+    "7pk1DLc96LMcHBB5": {
+      "actor": "modules/pf2e-compendium-arts/botd/actor/vanyver.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/vanyver.webp"
+    },
+    "T9osQMcC96l4X9lk":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/BEETLE-CARAPACE.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/BEETLE-CARAPACE.webp"
+    },
+    "j777BjOqZff6S1v9":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/BHUTA.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/BHUTA.webp"
+    },
+    "xyOxzfIUTrN5c8ex":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/blood-tears.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/blood-tears.webp"
+    },
+    "uE6YuCCqU715E1Ay":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/BLOODTHIRSTY-TOY.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/BLOODTHIRSTY-TOY.webp"
+    },
+    "ol2lji9lH7PXh1uw":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/BONE-CROUPIER.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/BONE-CROUPIER.webp"
+    },
+    "sgeULAtaLvg0Uhyn":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/CADAVEROUS-RAKE.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/CADAVEROUS-RAKE.webp"
+    },
+    "NcqruxA82SFvTnD1":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/CHILD-OF-URGATHOA.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/CHILD-OF-URGATHOA.webp"
+    },
+    "vaVIJeQnKFUeaC8K":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/COMBUSTED.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/COMBUSTED.webp"
+    },
+    "Y2Fiu9T1xwSBPVTV":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/CORPSEROOT.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/CORPSEROOT.webp"
+    },
+    "ishwgxZAlNJxNwGE":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/DAQQANOENYENT.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/DAQQANOENYENT.webp"
+    },
+    "7WqlOvjoqURmeorA":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/DEATH-COACH.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/DEATH-COACH.webp"
+    },
+    "27NxweHr9rB1hDCn":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/DEATHLESS-ACOLYTE-OF-URGATHOA.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/DEATHLESS-ACOLYTE-OF-URGATHOA.webp"
+    },
+    "h0OtQsMR4OqnYatd":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/DEATHLESS-HIEROPHANT-OF-URGATHOA.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/DEATHLESS-HIEROPHANT-OF-URGATHOA.webp"
+    },
+    "S5dXAmvghYCIrQDe":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/DECREPIT-MUMMY.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/DECREPIT-MUMMY.webp"
+    },
+    "sucEX2JFrVevTNjU":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/Drake-Skeleton.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/Drake-Skeleton.webp"
+    },
+    "zqftTUpxqkdLx2IY":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/ECORCHE.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/ECORCHE.webp"
+    },
+    "KhHVStbsPSuPElFI":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/EXCORION.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/EXCORION.webp"
+    },
+    "A5GOni2mXNhVsdRg":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/FAITHLESS-ECCLESIARCH.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/FAITHLESS-ECCLESIARCH.webp"
+    },
+    "JazJz2crkoG9koQR":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/FALLEN-CHAMPION.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/FALLEN-CHAMPION.webp"
+    },
+    "EDhme1IKgO34NDrt":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/FESTERING-GNASHER.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/FESTERING-GNASHER.webp"
+    },
+    "jIypNMJE7rVYpItG":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/FIDDLING-BONES.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/FIDDLING-BONES.webp"
+    },
+    "hDQmEtisrgRmufUW":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/FLUXWRAITH.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/FLUXWRAITH.webp"
+    },
+    "gXo04F7O4pwOY698":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/GALLOWDEAD.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/GALLOWDEAD.webp"
+    },
+    "XrSjNpkJkBO6ysRG":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/GASHADOKURO.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/GASHADOKURO.webp"
+    },
+    "iEQOUQk1wVHFsajW":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/GEIST.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/GEIST.webp"
+    },
+    "bckYmdaq03CUDdc5":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/GHOLDAKO.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/GHOLDAKO.webp"
+    },
+    "UMDBlaViAdaw2lnN":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/GHOST-PIRATE-CAPTAIN.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/GHOST-PIRATE-CAPTAIN.webp"
+    },
+    "vOuiG3tRcr8yL4jh":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/GHUL.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/GHUL.webp"
+    },
+    "c6qRZuHQ7RHJEAtj":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/GRAPPLING-SPIRIT.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/GRAPPLING-SPIRIT.webp"
+    },
+    "Yv9e7NSCzPuhlCnH":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/GRAVEKNIGHT-WARMASTER.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/GRAVEKNIGHT-WARMASTER.webp"
+    },
+    "laYufBuih3cT95j4":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/HOLLOW-SERPENT.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/HOLLOW-SERPENT.webp"
+    },
+    "wGEZUOgoJNkgXx9Z":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/HORDE-LICH.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/HORDE-LICH.webp"
+    },
+    "xxFiRpQdvbKd0P12":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/HUNGRY-GHOST.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/HUNGRY-GHOST.webp"
+    },
+    "DMZo6DXmScDXJpJd":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/HUNTER-WIGHT.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/HUNTER-WIGHT.webp"
+    },
+    "qO20so7Mv2pmsLL1":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/HUSK-ZOMBIE.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/HUSK-ZOMBIE.webp"
+    },
+    "7JWjoMGf7f7PZgSD":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/ICE-MUMMY.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/ICE-MUMMY.webp"
+    },
+    "zOEuwWcvD7sQA1kc":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/ICHOR-SLINGER.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/ICHOR-SLINGER.webp"
+    },
+    "3pQvzrGhxO3bUwYT":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/IRUXI-OSSATURE.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/IRUXI-OSSATURE.webp"
+    },
+    "5ukWvQqK17BQl31O":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/LACEDON.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/LACEDON.webp"
+    },
+    "abnTemoEnsqZPbKZ":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/LAST-GUARD.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/LAST-GUARD.webp"
+    },
+    "vvxnRuYBU2uCBPPI":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/LITTLE-MAN-IN-THE-WOODS.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/LITTLE-MAN-IN-THE-WOODS.webp"
+    },
+    "uqY9TkQTO5n9rCLZ":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/LLORONA.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/LLORONA.webp"
+    },
+    "L0JAq1IGEsjJwTbl":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/MINISTER-OF-TUMULT.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/MINISTER-OF-TUMULT.webp"
+    },
+    "tb2nr2ycARadI3Pg":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/MUMMY-PROPHET-OF-SET.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/MUMMY-PROPHET-OF-SET.webp"
+    },
+    "8jd6xVMgAeQEfect":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/NASURGETH.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/NASURGETH.webp"
+    },
+    "1hdQjYLtup92Jlls":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/OBROUSIAN.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/OBROUSIAN.webp"
+    },
+    "mL4l2kwPPSMKwzQo":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/ONRYO.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/ONRYO.webp"
+    },
+    "Ze8SKqa4T8lhSDup":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/PALE-SOVEREIGN.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/PALE-SOVEREIGN.webp"
+    },
+    "GcHzyaMYK5QeKUyM":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/PALE-STRANGER.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/PALE-STRANGER.webp"
+    },
+    "M59XiYnJ4Z3bSwCC":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/POLONG.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/POLONG.webp"
+    },
+    "e49MDE5dJQ1XFq3O":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/PREDATORY-RABBIT.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/PREDATORY-RABBIT.webp"
+    },
+    "OsIjZpdtKmKrrBID":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/PRIEST-OF-KABRIRI.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/PRIEST-OF-KABRIRI.webp"
+    },
+    "ZSrMFLrb5CzFH5WX":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/PROVINCIAL-JIANG-SHI.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/PROVINCIAL-JIANG-SHI.webp"
+    },
+    "avBb4LvR3TsYpXma":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/QUEEN-SLUAGH.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/QUEEN-SLUAGH.webp"
+    },
+    "j88xR2MqqZrmF5Wz":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/RAW-NERVE.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/RAW-NERVE.webp"
+    },
+    "cEJh8SY1YDULyhI9":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/RELICTNER-ERODER.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/RELICTNER-ERODER.webp"
+    },
+    "zPQZLswJISQrvPb7":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/RUNECARVED-LICH.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/RUNECARVED-LICH.webp"
+    },
+    "ypOgr8kPy6KqXAAd":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/SEETANGEIST.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/SEETANGEIST.webp"
+    },
+    "pDA6tCwQ3pE6ji4U":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/SHADERN-IMMOLATOR.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/SHADERN-IMMOLATOR.webp"
+    },
+    "eEE3lRhXCjGzlRLJ":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/SHREDSKIN.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/SHREDSKIN.webp"
+    },
+    "hhoSyH9QthtvFptC":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/SIABRAE.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/SIABRAE.webp"
+    },
+    "Cl1SZNiURw65rz4p":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/SILENT-STALKER.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/SILENT-STALKER.webp"
+    },
+    "ipVQuGff2OeTVwFK":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/SKELETAL-MAGE.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/SKELETAL-MAGE.webp"
+    },
+    "z8WJtCyoVHlcSxYy":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/SKELETAL-TITAN.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/SKELETAL-TITAN.webp"
+    },
+    "uURI8Netd0ytD9vc":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/SLUAGH-REAPER.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/SLUAGH-REAPER.webp"
+    },
+    "40P14vZZXKLhBD6q":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/SYKEVER.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/SYKEVER.webp"
+    },
+    "Ur3dzfmvtN7lyPNG":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/Taunting-Skull.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/Taunting-Skull.webp"
+    },
+    "VN2Vz1dxA9ti66bC":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/TORMENTED.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/TORMENTED.webp"
+    },
+    "0PrrwvV1936eSCQy":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/TORMENTED.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/TORMENTED.webp"
+    },
+    "hjBcN7ulP6FSK7ie":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/TORMENTED.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/TORMENTED.webp"
+    },
+    "dcLHA7tihCF2Mraj":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/TORMENTED.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/TORMENTED.webp"
+    },
+    "AXp5EzgP7p8FrYpN":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/TORMENTED.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/TORMENTED.webp"
+    },
+    "f2dAjBXK55w6rnsh":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/TORMENTED.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/TORMENTED.webp"
+    },
+    "lhzNUX83TTYpJuma":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/UNRISEN.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/UNRISEN.webp"
+    },
+    "vHEJOONP1ERjuxxl":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/URVETH.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/URVETH.webp"
+    },
+    "LWLUaSHl8YCZdDMH":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/VETALARANA-EMERGENT.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/VETALARANA-EMERGENT.webp"
+    },
+    "Nzf3AfA46cBiWCwN":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/VETALARANA-MANIPULATOR.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/VETALARANA-MANIPULATOR.webp"
+    },
+    "VYLTAIVA9qUsbujo":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/WALDGEIST.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/WALDGEIST.webp"
+    },
+    "kY8MSttryLjbI5wN":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/WIGHT-COMMANDER.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/WIGHT-COMMANDER.webp"
+    },
+    "ToGAEKKOplpXzaQQ":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/WOLF-SKELETON.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/WOLF-SKELETON.webp"
+    },
+    "8o27tdIZFp0eTs5N":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/ZOMBIE-LORD.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/ZOMBIE-LORD.webp"
+    },
+    "TipfHGlT5ctn1JV0":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/ZOMBIE-MAMMOTH.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/ZOMBIE-MAMMOTH.webp"
+    },
+    "nbVljZhCnWgGxA18":{
+      "actor": "modules/pf2e-compendium-arts/botd/actor/ZOMBIE-OWLBEAR.webp",
+      "token": "modules/pf2e-compendium-arts/botd/token/ZOMBIE-OWLBEAR.webp"
+    }
+  },
+  "npc-gallery":{
+    "crTWewxna93vEt6B":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/ACOLYTE.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/ACOLYTE.webp"
+    },
+    "Tj03FbN4SSr0o953":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/ACROBAT.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/ACROBAT.webp"
+    },
+    "sKSfQmJMEsj8QN12":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/ADEPT.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/ADEPT.webp"
+    },
+    "K2STan8izudm9eEn":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/ANTIPALADIN.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/ANTIPALADIN.webp"
+    },
+    "aJR3f8YcAkmfx7im":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/APPRENTICE.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/APPRENTICE.webp"
+    },
+    "51E3fdESgGjQxcMv":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/ASTRONOMER.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/ASTRONOMER.webp"
+    },
+    "KPUDfkVpemug2gKj":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/BANDIT.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/BANDIT.webp"
+    },
+    "6IADTZHYowxObqAk":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/BARKEEP.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/BARKEEP.webp"
+    },
+    "ImdKLPgazv4MSI0F":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/BARRISTER.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/BARRISTER.webp"
+    },
+    "JsTI2SEZdg2j03gf":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/BEGGAR.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/BEGGAR.webp"
+    },
+    "1NZ1ZAgcUlWKmQSs":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/BOSUN.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/BOSUN.webp"
+    },
+    "GoGNtiHuYycppLPk":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/BOUNTY-HUNTER.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/BOUNTY-HUNTER.webp"
+    },
+    "B09JfuBZHjcRXztU":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/BURGLAR.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/BURGLAR.webp"
+    },
+    "t7QwdZ2m7AbuRWqd":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/CAPTAIN-OF-THE-GUARD.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/CAPTAIN-OF-THE-GUARD.webp"
+    },
+    "7GGHuOlSzcaF2AdL":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/CHARLATAN.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/CHARLATAN.webp"
+    },
+    "EslFhpdvQf7KN8W3":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/CHRONICLER.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/CHRONICLER.webp"
+    },
+    "Ap87yR4WOs0wKHx7":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/CULTIST.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/CULTIST.webp"
+    },
+    "pMKrTXmrzDOc9avN":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/CULT-LEADER.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/CULT-LEADER.webp"
+    },
+    "0Ex7rBuiJVu2NwCz":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/DEMONOLOGIST.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/DEMONOLOGIST.webp"
+    },
+    "QZmckb7O3PNgY7D6":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/DOCKHAND.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/DOCKHAND.webp"
+    },
+    "IaSxoVNZFYatdfjI":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/DRUNKARD.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/DRUNKARD.webp"
+    },
+    "1U1URD7IyddoD5zE":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/FENCE.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/FENCE.webp"
+    },
+    "vkLhqX5oR1t89puZ":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/GANG-LEADER.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/GANG-LEADER.webp"
+    },
+    "X7LmMMEOFUUicQ2O":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/GUIDE.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/GUIDE.webp"
+    },
+    "pZOgcQRwXrX9g0s8":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/GUILDMASTER.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/GUILDMASTER.webp"
+    },
+    "saUg5rtaO9kI9Vir":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/HARBORMASTER.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/HARBORMASTER.webp"
+    },
+    "Hle05FibgOeZr7wF":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/HUNTER.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/HUNTER.webp"
+    },
+    "gzirsGA07yG6CaG8":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/JAILER.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/JAILER.webp"
+    },
+    "1sWw5OgmpazLVqRQ":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/MAGE-FOR-HIRE.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/MAGE-FOR-HIRE.webp"
+    },
+    "Cnm5zWmuTEYy6mPx":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/MASTERMIND.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/MASTERMIND.webp"
+    },
+    "8coHofIpLa5ZnjAF":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/NAVIGATOR.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/NAVIGATOR.webp"
+    },
+    "B13dyXTo1xWVyj2R":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/PALACE-GUARD.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/PALACE-GUARD.webp"
+    },
+    "7RF95b3WHkvHWLrv":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/PHYSICIAN.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/PHYSICIAN.webp"
+    },
+    "X1cSs1jhTtx1zTI4":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/POACHER.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/POACHER.webp"
+    },
+    "XpkGaDlyMH2V5wxR":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/PRIEST.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/PRIEST.webp"
+    },
+    "mblLgQ9NMR2mMI99":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/RECKLESS-SCIENTIST.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/RECKLESS-SCIENTIST.webp"
+    },
+    "1iz7O6DLDJqStojd":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/SERVANT.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/SERVANT.webp"
+    },
+    "SwjcZsbkcq6PhiXc":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/SPY.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/SPY.webp"
+    },
+    "wfsT2QDtQhsFXQfE":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/SURGEON.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/SURGEON.webp"
+    },
+    "hK8Tpg3baKWzmPEv":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/TAX-COLLECTOR.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/TAX-COLLECTOR.webp"
+    },
+    "Jg9OEmo68KC91PgC":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/TEACHER.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/TEACHER.webp"
+    },
+    "lemVxzg2Pnx9Nu3d":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/TROUBADOUR.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/TROUBADOUR.webp"
+    },
+    "G2ftdkyJ5WDonL0C":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/URCHIN.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/URCHIN.webp"
+    },
+    "TgeUj2IiyoTeZHIO":{
+      "actor": "modules/pf2e-compendium-arts/gmg/actor/WATCH-OFFICER.webp",
+      "token": "modules/pf2e-compendium-arts/gmg/token/WATCH-OFFICER.webp"
+    }
+  },
+  "lost-omens-impossible-lands-bestiary":{
+    "1MxubcO4SB8PwmKT":{
+      "actor": "modules/pf2e-compendium-arts/impossiblelands/actor/BENTHIC-REAVER.webp",
+      "token": "modules/pf2e-compendium-arts/impossiblelands/token/BENTHIC-REAVER.webp"
+    },
+    "qmw82W0WhPkn9UTW":{
+      "actor": "modules/pf2e-compendium-arts/impossiblelands/actor/CLOCKWORK-CANNONEER.webp",
+      "token": "modules/pf2e-compendium-arts/impossiblelands/token/CLOCKWORK-CANNONEER.webp"
+    },
+    "4DQotKcUZebLfeeL":{
+      "actor": "modules/pf2e-compendium-arts/impossiblelands/actor/CURSED-KING.webp",
+      "token": "modules/pf2e-compendium-arts/impossiblelands/token/CURSED-KING.webp"
+    },
+    "K2AOcLMDOVNbgPXp":{
+      "actor": "modules/pf2e-compendium-arts/impossiblelands/actor/FLESHFORGED-CONFORMER.webp",
+      "token": "modules/pf2e-compendium-arts/impossiblelands/token/FLESHFORGED-CONFORMER.webp"
+    },
+    "KTabPRN489yjTvek":{
+      "actor": "modules/pf2e-compendium-arts/impossiblelands/actor/FLESHFORGED-DREADNOUGHT.webp",
+      "token": "modules/pf2e-compendium-arts/impossiblelands/token/FLESHFORGED-DREADNOUGHT.webp"
+    },
+    "qbfMDAa3RXvwyG7k":{
+      "actor": "modules/pf2e-compendium-arts/impossiblelands/actor/GUNPOWDER-OOZE.webp",
+      "token": "modules/pf2e-compendium-arts/impossiblelands/token/GUNPOWDER-OOZE.webp"
+    },
+    "UgGyHJ39EHztCV5m":{
+      "actor": "modules/pf2e-compendium-arts/impossiblelands/actor/KASESH.webp",
+      "token": "modules/pf2e-compendium-arts/impossiblelands/token/KASESH.webp"
+    },
+    "fGZeQOarR6Im7Lnk":{
+      "actor": "modules/pf2e-compendium-arts/impossiblelands/actor/KASHRISHI-EVALUATOR.webp",
+      "token": "modules/pf2e-compendium-arts/impossiblelands/token/KASHRISHI-EVALUATOR.webp"
+    },
+    "lhr2fjewILo4nyUZ":{
+      "actor": "modules/pf2e-compendium-arts/impossiblelands/actor/MUTANT-GNOLL-HULK.webp",
+      "token": "modules/pf2e-compendium-arts/impossiblelands/token/MUTANT-GNOLL-HULK.webp"
+    },
+    "gZ2qX5vbWg7otMVT":{
+      "actor": "modules/pf2e-compendium-arts/impossiblelands/actor/QUANTIUM-GOLEM.webp",
+      "token": "modules/pf2e-compendium-arts/impossiblelands/token/QUANTIUM-GOLEM.webp"
+    },
+    "wjNbuzeqoVSR0Wwm":{
+      "actor": "modules/pf2e-compendium-arts/impossiblelands/actor/QUANTIUM-GOLEM.webp",
+      "token": "modules/pf2e-compendium-arts/impossiblelands/token/QUANTIUM-GOLEM.webp"
+    },
+    "xl2UxOFVSDGqaVS5":{
+      "actor": "modules/pf2e-compendium-arts/impossiblelands/actor/RATAJIN-MASTERMIND.webp",
+      "token": "modules/pf2e-compendium-arts/impossiblelands/token/RATAJIN-MASTERMIND.webp"
+    },
+    "LVY9JAhTnBC2SeqZ":{
+      "actor": "modules/pf2e-compendium-arts/impossiblelands/actor/SKINSKITTER.webp",
+      "token": "modules/pf2e-compendium-arts/impossiblelands/token/SKINSKITTER.webp"
+    },
+    "AIQMB0ysHNeodKG4":{
+      "actor": "modules/pf2e-compendium-arts/impossiblelands/actor/SPELLSCAR-FEXT.webp",
+      "token": "modules/pf2e-compendium-arts/impossiblelands/token/SPELLSCAR-FEXT.webp"
+    },
+    "1SIx3wcRvplbfwk3":{
+      "actor": "modules/pf2e-compendium-arts/impossiblelands/actor/STONE-SISTER.webp",
+      "token": "modules/pf2e-compendium-arts/impossiblelands/token/STONE-SISTER.webp"
+    },
+    "JmGKKXdAxUkJtdTm":{
+      "actor": "modules/pf2e-compendium-arts/impossiblelands/actor/UGVASHI.webp",
+      "token": "modules/pf2e-compendium-arts/impossiblelands/token/UGVASHI.webp"
+    }
+  },
+  "lost-omens-monsters-of-myth-bestiary":{
+    "VCC4nw6EXvqwgmCp":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/AINAMUUREN.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/AINAMUUREN.webp"
+    },
+    "LK3SgIKJqqo4Q4NQ":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/CUETZMONQUALI.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/CUETZMONQUALI.webp"
+    },
+    "Bi6bi9Ko5x9OJfDT":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/DESERT-S-HOWL.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/DESERT-S-HOWL.webp"
+    },
+    "WdnuPiAoRFaymR8R":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/FAFNHEIR.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/FAFNHEIR.webp"
+    },
+    "O4gEaG5vzkLFl7J1":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/GROGRISANT.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/GROGRISANT.webp"
+    },
+    "zE2ykzHZKNS3Rnc3":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/KALLAS-DEVIL.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/KALLAS-DEVIL.webp"
+    },
+    "RqdL0YzNF1dG163i":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/KOTHOGAZ.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/KOTHOGAZ.webp"
+    },
+    "kdkmTLlqzOYVxb50":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/KRAMPUS.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/KRAMPUS.webp"
+    },
+    "K7hgO9SEBai2jwYj":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/KRAMPUS-IMITATOR.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/KRAMPUS-IMITATOR.webp"
+    },
+    "OF0fZDjNapydddM1":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/KUWORSYS.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/KUWORSYS.webp"
+    },
+    "G1jYZOjA3E3BqrIM":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/MELFESH-MONSTER.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/MELFESH-MONSTER.webp"
+    },
+    "KdOwmclPVpcTSPjF":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/MOSQUITO-WITCH.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/MOSQUITO-WITCH.webp"
+    },
+    "ns6fmJ8469hzBOtM":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/MOSQUITO-WITCH.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/MOSQUITO-WITCH.webp"
+    },
+    "FhgZOBWNMa5t7pYV":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/MOSQUITO-WITCH.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/MOSQUITO-WITCH.webp"
+    },
+    "mE9MQ0hnRmlR9m94":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/MOSQUITO-WITCH.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/MOSQUITO-WITCH.webp"
+    },
+    "KLxdUFCvZ7HkAP1E":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/SOMNALU.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/SOMNALU.webp"
+    },
+    "10srqxC7QZy0dq2g":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/SPECTRAL-DEVIL.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/SPECTRAL-DEVIL.webp"
+    },
+    "EXyfhhX9GLOnK1uZ":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/SPRING-HEELED-JACK.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/SPRING-HEELED-JACK.webp"
+    },
+    "bhLbKN7MJofTabfK":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/TALJJAE.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/TALJJAE.webp"
+    },
+    "a1vTm01GBVF4TI8f":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/TALJJAE.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/TALJJAE.webp"
+    },
+    "W0oF6Dl7G4UeTBSC":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/TALJJAE.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/TALJJAE.webp"
+    },
+    "sXZExyaijbRnKI2S":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/TALJJAE.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/TALJJAE.webp"
+    },
+    "XLDh6o6vBRCDEKsl":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/TALJJAE.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/TALJJAE.webp"
+    },
+    "IO7sPevkM0zvnWbi":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/TALJJAE.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/TALJJAE.webp"
+    },
+    "j3NhCEMLVm4HSsgr":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/TALJJAE.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/TALJJAE.webp"
+    },
+    "hfi0qJePy2cf4Fqe":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/TALJJAE.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/TALJJAE.webp"
+    },
+    "C87bRxKDTuJXGkPG":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/TEHIALAI-THIEF-OF-SHIPS.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/TEHIALAI-THIEF-OF-SHIPS.webp"
+    },
+    "7a57dwK5XrV78ajM":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/TEMTEKI.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/TEMTEKI.webp"
+    },
+    "jInkcz2UYdaCzsBU":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/ULGREM-AXAAN.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/ULGREM-AXAAN.webp"
+    },
+    "XCW1WzJqwGUS1cGi":{
+      "actor": "modules/pf2e-compendium-arts/monstersofmyth/actor/ULISTUL.webp",
+      "token": "modules/pf2e-compendium-arts/monstersofmyth/token/ULISTUL.webp"
+    }
+  },
+  "lost-omens-mwangi-expanse-bestiary":{
+    "N5pG7rsbN1lL1ysb":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/AIGAMUXA.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/AIGAMUXA.webp"
+    },
+    "bo3BDHT7P1IK7oLp":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/ANADI-ELDER.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/ANADI-ELDER.webp"
+    },
+    "aXXvrcggR8EQJOdm":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/ANADI-HUNTER.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/ANADI-HUNTER.webp"
+    },
+    "As0M3PvmrR2055pk":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/ASANBOSAM.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/ASANBOSAM.webp"
+    },
+    "rrJqsVeBKizuyqRY":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/biloko&eloko.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/biloko.webp"
+    },
+    "rayMMWNm61ivtxuU":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/biloko&eloko.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/biloko.webp"
+    },
+    "QUyqY6JiZNkEyTnd":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/CHARAU-KA-BUTCHER.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/CHARAU-KA-BUTCHER.webp"
+    },
+    "TfEGDGqUk3LpokZZ":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/CHARAU-KA-WARRIOR.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/CHARAU-KA-WARRIOR.webp"
+    },
+    "NvyAvzxxfb8XEQr2":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/GROOTSLANG.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/GROOTSLANG.webp"
+    },
+    "rMby02NQRHNrDcTj":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/KAAVA-STALKER.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/KAAVA-STALKER.webp"
+    },
+    "hbvxQn0T0m4WoAmZ":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/KARINA.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/KARINA.webp"
+    },
+    "XSWDwaLEyshEKSZE":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/K-NONNA.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/K-NONNA.webp"
+    },
+    "x2udXsqiLZachJHY":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/MALIADI.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/MALIADI.webp"
+    },
+    "j0t62tXPYhBzCLUO":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/MAMLAMBO.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/MAMLAMBO.webp"
+    },
+    "8K5v5q9Y01hcSNug":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/ROMPO.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/ROMPO.webp"
+    },
+    "ld3hMGWfeUT7enNf":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/SIÉ-GOLUO.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/SIÉ-GOLUO.webp"
+    },
+    "RVVSRRYAhQ3dVK2h":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/SOLAR-IBIS.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/SOLAR-IBIS.webp"
+    },
+    "rBlu1EsygXwCkOvd":{
+      "actor": "modules/pf2e-compendium-arts/mwangiexpanse/actor/ZINBA.webp",
+      "token": "modules/pf2e-compendium-arts/mwangiexpanse/token/ZINBA.webp"
+    }
+  }
+}

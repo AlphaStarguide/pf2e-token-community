@@ -1,0 +1,37 @@
+{
+  "id": "pf2e-compendium-arts",
+  "version": "1.0.0",
+  "title": "PF2e Token包",
+  "description": "<p>本模组为PF2e系统的死者之书、NPC画廊、芒吉莽原、惊世奇土及神话怪物合集包提供Token。</p>",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "manifest": "/",
+  "authors": [
+    {
+      "name": "fvtt-cn",
+      "discord": "",
+      "url": "",
+      "flags": {}
+    }
+  ],
+  "packs": [],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "compatibility": {
+        "minimum": "4.6.0"
+        },
+        "type": "system"
+      }
+    ]
+  },
+  "flags": {
+    "pf2e-compendium-arts": {
+      "pf2e-art": "modules/pf2e-compendium-arts/image-mapping.json"
+    }
+  }
+}
